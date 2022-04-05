@@ -1,6 +1,6 @@
 # Projet : Analysez des données de systèmes éducatifs
 
-**Autor :** Amandine LECERF DEFER
+**Autor :** Franck Le Mat
 
 **Date :** 27/09/2021
 
